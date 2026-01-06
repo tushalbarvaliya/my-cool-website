@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-this is my new file to main  upload in github
-=======
 
->>>>>>> subranch
+this is my new file to main  upload in github
+
 this is seacond line of code of subbranch
